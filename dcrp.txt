@@ -1,0 +1,7 @@
+"dcrp"
+{
+	"base"		"nutscript"
+	"title"		"NS - Domestic Conflict"
+	"author"	"fuzzylogic2001 & TheTwoCans"
+	"menusystem" "1"
+}
