@@ -1,4 +1,4 @@
-ITEM.name = "Do Androids Dream of Electric Sheep?"
+ITEM.name = "Charge of the Light Brigade"
 ITEM.model = "models/props_lab/binderblue.mdl"
 ITEM.width = 1
 ITEM.height = 1

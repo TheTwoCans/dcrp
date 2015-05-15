@@ -2,7 +2,7 @@ ITEM.name = "1984 Chapters 1-5"
 ITEM.model = "models/props_lab/binderblue.mdl"
 ITEM.width = 1
 ITEM.height = 1
-ITEM.desc = "A sci-fi book by George Orwell"
+ITEM.desc = "A book by George Orwell"
 
 ITEM.isURL = false
 ITEM.content = [[

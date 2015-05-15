@@ -36,13 +36,45 @@ end
 function SCHEMA:ClassPrefixSet(client, data, newData)
 	if (client:Team == FACTION_POLICE) then
 		function client:AdjustCreationData(client, data, newData)
-			newData.name = "Pvt."..data.name
+			newData.name = "Pvt. "..data.name
 		end
 	end
 
 	if (client:Team == FACTION_MILITARY) then
 		function client:AdjustCreationData(client, data, newData)
-			newData.name = "Pvt."..data.name
+			newData.name = "Pvt. "..data.name
+		end
+	end
+end
+
+
+-- This hook restricts oneself from using a weapon that configured by the sh_config.lua file.
+function SCHEMA:CanPlayerInteractItem(client, action, item)
+	if (action == "drop" or action == "take") then
+		return
+	end
+
+	local itemTable
+	if (type(item) == "Entity") then
+		if (IsValid(item)) then
+			itemTable = nut.item.instances[item.nutItemID]
+		end
+	else
+		itemTable = nut.item.instances[item]
+	end
+
+	if (itemTable and itemTable.isWeapon) then
+		local reqattribs = WEAPON_REQSKILLS[itemTable.uniqueID]
+		
+		if (reqattribs) then
+			for k, v in pairs(reqattribs) do
+				local attrib = client:getChar():getAttrib(k, 0)
+				if (attrib < v) then
+					client:notify(L("requireAttrib", client, L(nut.attribs.list[k].name, client), attrib, v))
+
+					return false
+				end
+			end
 		end
 	end
 end

@@ -8,4 +8,6 @@ nut.util.include("sh_hooks.lua")
 SCHEMA.helps = {
 	["Hello"] = [[
 	Thois is a test pls fill in]],
+	["test2"] = [[
+	tetststst]],
 }
