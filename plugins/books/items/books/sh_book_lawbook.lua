@@ -11,7 +11,7 @@ ITEM.content = [[
 <br>2- Attempts to harm service members or peace officers will be met with inprisonment or death.
 <br>3- Being outside during citywide curfew will result in your arrest.
 <br>4- Stealing is punishable depending on severity of the crime.
-<br>5- Plotting against the government is illegal and will be punished.https://www.youtube.com/
+<br>5- Plotting against the government is illegal and will be punished.
 <br>6- Posession of CLASS 2 substances or higher without proper clearence is illegal.
 <br>7- Posession of a CLASS 2 weapon or higher without proper clearence is illegal.
 <br>
