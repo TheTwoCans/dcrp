@@ -6,6 +6,13 @@ ITEM.desc = "A book by George Orwell"
 
 ITEM.isURL = false
 ITEM.content = [[
+<style>
+	body {
+background: url('http://i.imgur.com/BhjRYop.png');
+		width: 95%;
+		height: 350px; 
+      }
+</style>
 It was a bright cold day in April, and the clocks were striking thirteen. Winston
 Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped
 quickly through the glass doors of Victory Mansions, though not quickly enough

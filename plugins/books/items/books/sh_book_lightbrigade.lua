@@ -6,6 +6,14 @@ ITEM.desc = "A tattered old poem by Alfred Tennyson"
 
 ITEM.isURL = false
 ITEM.content = [[
+
+<style>
+	body {
+background: url('http://i.imgur.com/BhjRYop.png');
+		width: 95%;
+		height: 350px; 
+      }
+</style>
 I
 Half a league, half a league,
 Half a league onward,

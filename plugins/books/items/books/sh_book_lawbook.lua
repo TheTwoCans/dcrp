@@ -6,6 +6,13 @@ ITEM.desc = "A thick book that every citizen owns."
 
 ITEM.isURL = false
 ITEM.content = [[
+<style>
+	body {
+background: url('http://i.imgur.com/BhjRYop.png');
+		width: 95%;
+		height: 350px; 
+      }
+</style>
 <h1>LAWS</h1>
 <br>1- Citizens must obey orders from all government workers.
 <br>2- Attempts to harm service members or peace officers will be met with inprisonment or death.
