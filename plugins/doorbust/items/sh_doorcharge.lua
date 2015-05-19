@@ -3,7 +3,7 @@ ITEM.model = "models/props_c17/consolebox05a.mdl"
 ITEM.width = 2
 ITEM.height = 2
 ITEM.price = 600
-ITEM.desc = "A Money Printer that you can print money"
+ITEM.desc = "A small black pouch packing C4. (CLASS 4)"
 
 -- You can use hunger table? i guess? 
 ITEM.functions = ITEM.functions or {}
