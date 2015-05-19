@@ -20,19 +20,19 @@ ITEM.content = [[
 <h1>Pentaly Guide</h1>
 <h3><strong>Level One Offense</strong></h3>
 <br>Criminal Misdomeaner
-<br>Solicitating in banned areas.
+<br>Failurtating in banned areas.
 <br>Failure to identify self
 <br>Excessive swearing, or insults.
 <br>Solicicious activities.
 <br>Harrasment.
-<h4>Penalties include warning, flogging, or in extreme instances 30 minutes prison time.</h4>
+<h4>Penalties include warning, floging, or in extreme instances 30 minute prison time.</h4>
 <h3><strong>Level Two Offense</strong></h3>
 <br>Petty theiving.
 <br>Possesion of a level two pharmaceutical.
 <br>Possesion of a level two firearm or weapon.
 <br>Intimidation.
 <br>Annoying a government worker.
-<h4>Penalties include public flogging, interrogation, 30 minutes - 2 hours of jail, or a fine up to $100</h4>
+<h4>Penalties include public floging, interigation, 30 minutes - 2 hours of jail, or up to $100</h4>
 <h3><strong>Level Three Offense</strong></h3>
 <br>Stealing.
 <br>Minor Fraud.
@@ -41,5 +41,5 @@ ITEM.content = [[
 <br>Illegal dealing of a level two weapon.
 <br>Possesion of a level three pharmaceutical.
 <br>Possesion of a level three firearm or weapon.
-<h4>Penalties include public flogging, interrogation, 30 minutes - 2 hours of jail, or a fine up to $100</h4>
+<h4>Penalties include public floging, interigation, 30 minutes - 2 hours of jail, or up to $100</h4>
 ]]
