@@ -1,5 +1,5 @@
 ITEM.name = "SIG P228"
-ITEM.desc = "A pre-Combine pistol made from black metal. It gives off a nice clanking sound when shot."
+ITEM.desc = "A pistol made from black metal. It gives off a nice clanking sound when shot. (CLASS 3)"
 ITEM.model = "models/weapons/w_pist_p228.mdl"
 ITEM.class = "nut_cs_p228"
 ITEM.weaponCategory = "sidearm"

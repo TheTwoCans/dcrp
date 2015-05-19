@@ -1,5 +1,5 @@
 ITEM.name = "Steyr AUG"
-ITEM.desc = "A pre-Combine bullpup rifle with an olive-drab polymer frame and black barrel that has been outfitted with a scope."
+ITEM.desc = "A bullpup rifle with an olive-drab polymer frame and black barrel that has been outfitted with a scope. (CLASS 4)"
 ITEM.model = "models/weapons/w_rif_aug.mdl"
 ITEM.class = "nut_cs_aug"
 ITEM.weaponCategory = "primary"

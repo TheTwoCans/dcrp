@@ -1,5 +1,5 @@
-ITEM.name = "Scout"
-ITEM.desc = "A pre-Combine sniper rifle with a black barrel, a scope, and a grey polymer frame."
+ITEM.name = "Steyr Scout"
+ITEM.desc = "A sniper rifle with a black barrel, a scope, and a grey polymer frame. (CLASS 2)"
 ITEM.model = "models/weapons/w_snip_scout.mdl"
 ITEM.class = "nut_cs_scout"
 ITEM.weaponCategory = "primary"

@@ -1,5 +1,5 @@
 ITEM.name = "SG-552"
-ITEM.desc = "A pre-Combine assault rifle with black polymer grips and non-painted metal externals."
+ITEM.desc = "A assault rifle with black polymer grips and non-painted metal externals. (CLASS 4)"
 ITEM.model = "models/weapons/w_rif_sg552.mdl"
 ITEM.class = "nut_cs_sg552"
 ITEM.weaponCategory = "primary"

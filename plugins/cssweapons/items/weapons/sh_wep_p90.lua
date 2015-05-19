@@ -1,5 +1,5 @@
 ITEM.name = "FN P90"
-ITEM.desc = "A fast-firing pre-Combine submachine gun. It has tally marks etched onto the black polymer stock."
+ITEM.desc = "A fast-firing submachine gun. It has tally marks etched onto the black polymer stock. (CLASS 4)"
 ITEM.model = "models/weapons/w_smg_p90.mdl"
 ITEM.class = "nut_cs_p90"
 ITEM.weaponCategory = "primary"

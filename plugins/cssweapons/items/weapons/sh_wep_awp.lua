@@ -1,5 +1,5 @@
 ITEM.name = "Arctic Warfare Magnum"
-ITEM.desc = "A pre-Combine high power sniper rifle with an olive-drab polymer frame and black barrel. It is outfitted with a scope."
+ITEM.desc = "A high power sniper rifle with an olive-drab polymer frame and black barrel. It is outfitted with a scope. (CLASS 4)"
 ITEM.model = "models/weapons/w_snip_awp.mdl"
 ITEM.class = "nut_cs_awp"
 ITEM.weaponCategory = "primary"

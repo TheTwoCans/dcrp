@@ -1,5 +1,5 @@
 ITEM.name = "TMP"
-ITEM.desc = "A black metal pre-Combine machinepistol outfitted with a silencer."
+ITEM.desc = "A black metal machinepistol outfitted with a silencer. (CLASS 4)"
 ITEM.model = "models/weapons/w_smg_tmp.mdl"
 ITEM.class = "nut_cs_tmp"
 ITEM.weaponCategory = "primary"

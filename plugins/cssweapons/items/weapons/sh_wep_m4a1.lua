@@ -1,5 +1,5 @@
 ITEM.name = "Colt M4A1"
-ITEM.desc = "An American assault rifle with a carry handle and black metal externals, along with a polymer handguard."
+ITEM.desc = "An American assault rifle with a carry handle and black metal externals, along with a polymer handguard. (CLASS 4)"
 ITEM.model = "models/weapons/w_rif_m4a1.mdl"
 ITEM.class = "nut_cs_m4a1"
 ITEM.weaponCategory = "primary"

@@ -1,5 +1,5 @@
 ITEM.name = "IMI Desert Eagle"
-ITEM.desc = "A pre-Combine hand cannon made from a silver metal with black polymer grips."
+ITEM.desc = "A hand cannon made from a silver metal with black polymer grips. (CLASS 3)"
 ITEM.model = "models/weapons/w_pist_deagle.mdl"
 ITEM.class = "nut_cs_deagle"
 ITEM.weaponCategory = "sidearm"

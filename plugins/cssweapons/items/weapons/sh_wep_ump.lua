@@ -1,5 +1,5 @@
 ITEM.name = "HK UMP"
-ITEM.desc = "A mainly black polymer pre-Combine SMG-AR hybrid of sorts."
+ITEM.desc = "A mainly black polymer SMG-AR hybrid of sorts. (CLASS 4)"
 ITEM.model = "models/weapons/w_smg_ump45.mdl"
 ITEM.class = "nut_cs_ump"
 ITEM.weaponCategory = "primary"

@@ -1,5 +1,5 @@
 ITEM.name = "SG-550"
-ITEM.desc = "A sniper variant of the SG-552. It has a longer barrel and new pistol grip."
+ITEM.desc = "A sniper variant of the SG-552. It has a longer barrel and new pistol grip. (CLASS 4)"
 ITEM.model = "models/weapons/w_snip_sg550.mdl"
 ITEM.class = "nut_cs_sg550"
 ITEM.weaponCategory = "primary"

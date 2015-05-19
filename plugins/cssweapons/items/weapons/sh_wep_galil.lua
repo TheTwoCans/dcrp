@@ -1,5 +1,5 @@
 ITEM.name = "IMI Galil"
-ITEM.desc = "A pre-Combine assault rifle with wood grips, skeleton stock, and black metal externals."
+ITEM.desc = "A assault rifle with wood grips, skeleton stock, and black metal externals. (CLASS 4)"
 ITEM.model = "models/weapons/w_rif_galil.mdl"
 ITEM.class = "nut_cs_galil"
 ITEM.weaponCategory = "primary"

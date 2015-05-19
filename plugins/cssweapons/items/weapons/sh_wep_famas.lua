@@ -1,5 +1,5 @@
 ITEM.name = "FAMAS"
-ITEM.desc = "A pre-Combine bullpup rifle made from a strong black metal."
+ITEM.desc = "A bullpup rifle made from a strong black metal. (CLASS 4)"
 ITEM.model = "models/weapons/w_rif_famas.mdl"
 ITEM.class = "nut_cs_famas"
 ITEM.weaponCategory = "primary"

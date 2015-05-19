@@ -1,5 +1,5 @@
-ITEM.name = "HK MP5"
-ITEM.desc = "A pre-Combine submachine gun with a polymer handguard and black metal externals."
+ITEM.name = "HK MP5 Navy"
+ITEM.desc = "A submachine gun with a polymer handguard and black metal externals. (CLASS 4)"
 ITEM.model = "models/weapons/w_smg_mp5.mdl"
 ITEM.class = "nut_cs_mp5"
 ITEM.weaponCategory = "primary"

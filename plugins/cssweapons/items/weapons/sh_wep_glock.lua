@@ -1,5 +1,5 @@
 ITEM.name = "Glock 18"
-ITEM.desc = "A mass produced pistol made from black metal and polymer."
+ITEM.desc = "A mass produced pistol made from black metal and polymer. (CLASS 3)"
 ITEM.model = "models/weapons/w_pist_glock18.mdl"
 ITEM.class = "nut_cs_glock"
 ITEM.weaponCategory = "sidearm"

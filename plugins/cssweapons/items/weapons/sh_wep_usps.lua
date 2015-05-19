@@ -1,5 +1,5 @@
 ITEM.name = "HK USP Silenced"
-ITEM.desc = "A variant of the USP with a fixed silencer on the front of the weapon."
+ITEM.desc = "A variant of the USP with a fixed silencer on the front of the weapon. (CLASS 3)"
 ITEM.model = "models/weapons/w_pist_usp_silencer.mdl"
 ITEM.class = "nut_cs_usps"
 ITEM.weaponCategory = "sidearm"

@@ -1,5 +1,5 @@
 ITEM.name = "FN Five-seveN"
-ITEM.desc = "A pre-Combine pistol with black polymer externals and a high capacity magazine."
+ITEM.desc = "A pistol with black polymer externals and a high capacity magazine. (CLASS 3)"
 ITEM.model = "models/weapons/w_pist_fiveseven.mdl"
 ITEM.class = "nut_cs_fiveseven"
 ITEM.weaponCategory = "sidearm"

@@ -1,5 +1,5 @@
 ITEM.name = "HK USP"
-ITEM.desc = "A mass-produced pistol with a black grip and grey slide. It looks very worn."
+ITEM.desc = "A mass-produced pistol with a black grip and grey slide. It looks very worn. (CLASS 3)"
 ITEM.model = "models/weapons/w_pist_usp.mdl"
 ITEM.class = "nut_cs_usp"
 ITEM.weaponCategory = "sidearm"

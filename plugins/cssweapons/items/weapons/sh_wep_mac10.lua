@@ -1,5 +1,5 @@
 ITEM.name = "MAC-10"
-ITEM.desc = "A cheap machine-pistol with black sheet metal construction."
+ITEM.desc = "A cheap machine-pistol with black sheet metal construction. (CLASS 4)"
 ITEM.model = "models/weapons/w_smg_mac10.mdl"
 ITEM.class = "nut_cs_mac10"
 ITEM.weaponCategory = "primary"

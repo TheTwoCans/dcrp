@@ -1,5 +1,5 @@
 ITEM.name = "AK-47"
-ITEM.desc = "A pre-Combine assault rifle made from some black metal with a wooden stock and grip."
+ITEM.desc = "A assault rifle made from some black metal with a wooden stock and grip. (CLASS 4)"
 ITEM.model = "models/weapons/w_rif_ak47.mdl"
 ITEM.class = "nut_cs_ak47"
 ITEM.weaponCategory = "primary"

@@ -1,5 +1,5 @@
-ITEM.name = "HK G3/SG1"
-ITEM.desc = "A German made pre-Combine autosniper with black polymer and metal externals. It is outfitted with a scope."
+ITEM.name = "HK G3"
+ITEM.desc = "A German made autosniper with black polymer and metal externals. It is outfitted with a scope. (CLASS 4)"
 ITEM.model = "models/weapons/w_snip_g3sg1.mdl"
 ITEM.class = "nut_cs_g3sg1"
 ITEM.weaponCategory = "primary"
