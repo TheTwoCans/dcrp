@@ -32,7 +32,7 @@ ensure the wellbeing of our great Nation. Compliance with all government persone
 <br>CLASS 1: Basic Pharmaceuticals and Medical Supplies
 <br>CLASS 2: Mid-Tier Pharmaceuticals and Medical Supplies, Illegal Drugs
 <br>CLASS 3: High Tier Pharmaceuticals and Medical Supplies, High Tier Illegal Drugs, Toxens and Poisons
-<br>CLASS 4: Bioweapons, leathal and nonleathal.
+<br>CLASS 4: Bioweapons, lethal and nonlethal.
 <br>
 <h1>FIREARM REGULATIONS</h1>
 <br>CLASS 1: Blades, Batons, or any other melee weapon incapable of firing a projectile.
