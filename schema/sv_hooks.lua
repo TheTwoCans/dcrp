@@ -78,3 +78,10 @@ function SCHEMA:CanPlayerInteractItem(client, action, item)
 		end
 	end
 end
+
+function SCHEMA:GetDefaultInv(inventory, client, data)
+	-- PrintTable(data) to see what information it contains.
+	if (data.faction == FACTION_CITIZEN) then
+		inventory:Add("book_lawbook", 1)
+	end
+end
