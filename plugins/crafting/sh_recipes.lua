@@ -2,9 +2,9 @@
 local RECIPE = {}
 -- Simple Information about recipe
 -- This is must be filled. 
-RECIPE.uniqueID = "test"
-RECIPE.name = "Test Recipe"
-RECIPE.desc = "A Test Recipe that does not requires any blueprints."
+RECIPE.uniqueID = "healthupone"
+RECIPE.name = "Combine Medical Vials"
+RECIPE.desc = "Combine two healthvials to create a better healthkit."
 
 -- This recipe requires 2 "test" items.
 -- This is must be filled. 
