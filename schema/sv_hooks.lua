@@ -83,5 +83,11 @@ function SCHEMA:GetDefaultInv(inventory, client, data)
 	-- PrintTable(data) to see what information it contains.
 	if (data.faction == FACTION_CITIZEN) then
 		inventory:Add("book_lawbook", 1)
+		inventory:Add("food_sodacan", 3)
+		inventory:Add("food_cannedbean", 1)
+	end
+		inventory:Add("book_lawbook", 1)
+		inventory:Add("food_sodacan", 3)
+		inventory:Add("food_cannedbean", 1)
 	end
 end
