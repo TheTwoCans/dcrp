@@ -1,6 +1,6 @@
 ITEM.name = "Cannabis"
 ITEM.model = "models/props_lab/box01a.mdl"
-ITEM.desc = "A joint of cannabis with a wrapping made from newspaper."
+ITEM.desc = "A joint of cannabis with a wrapping made from newspaper. (CLASS 2)"
 ITEM.duration = 100
 ITEM.price = 200
 ITEM.attribBoosts = {
