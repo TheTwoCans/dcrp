@@ -86,8 +86,25 @@ function SCHEMA:GetDefaultInv(inventory, client, data)
 		inventory:Add("food_sodacan", 3)
 		inventory:Add("food_cannedbean", 1)
 	end
-		inventory:Add("book_lawbook", 1)
-		inventory:Add("food_sodacan", 3)
-		inventory:Add("food_cannedbean", 1)
+	elseif (data.faction == FACTION_MILITARY) then
+		inventory:Add("book_militaryhandbook", 1)
+		inventory:Add("radio", 1)
+		
 	end
+	elseif (data.faction == FACTION_POLICE) then
+		inventory:Add("book_militaryhandbook", 1)
+		inventory:Add("book_policeguide", 1)
+		inventory:Add("radio", 1)
+		
+	end
+	elseif (data.faction == FACTION_GOV) then
+		inventory:Add("book_lawbook", 1)
+		inventory:Add("book_militaryhandbook", 1)
+		inventory:Add("book_policeguide", 1)
+		inventory:Add("radio", 1)
+		inventory:Add("food_burger", 12)
+		inventory:Add("food_sodabottle", 6)
+		inventory:Add("wep_fiveseven", 1)
+	end
+	
 end
