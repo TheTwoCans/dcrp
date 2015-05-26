@@ -106,5 +106,5 @@ function SCHEMA:GetDefaultInv(inventory, client, data)
 		inventory:Add("food_sodabottle", 6)
 		inventory:Add("wep_fiveseven", 1)
 	end
-	
+	-- ADFJklas;ht           gu
 end
