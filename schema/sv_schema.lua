@@ -32,6 +32,11 @@ SCHEMA.helps = {
 	<br>/whisper - Talk like normal, but the hearing radius will be smaller.
 	<br>/yell - Talk like normal, but the hearing radius will be larger.
 	<br>/radio - Say something over a radio frequency, assuming you have a handheld radio.]],
+	
+	["Notable Characters"] = [[
+	<br> Gen. Sebastian Connor - 92nd Regiment National Sentinel General (TheTwoCans, Server Developer)
+	<br> HOfc. Omar Ivo - Federal Emergency Police Head Officer (fuzzylogic2001, Server Developer)
+	]],
 
 
 
