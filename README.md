@@ -8,4 +8,4 @@
 <br>2- Internet connection if playing online.
 <br>3- A Steam copy of Garry's Mod
 <br>4- The addon collection found here: [INSERT LINK]
-<br>5- A Steam copy of Counter-Strike:Source, with its content mounted. OR Counter-Strike content mounted by any other means.
+<br>5- A Steam copy of Counter-Strike:Source, with its content mounted. OR Counter-Strike:Source content mounted by any other means.
